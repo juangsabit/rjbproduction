@@ -78,7 +78,7 @@
                                 </ul>
                             </div>
                             <div class="align-self-center ml-auto header-col-right">
-                                <a class="btn-custom" style="background-color:#505050" href="#"><i class="fa fa-shopping-bag"></i> Marketplace</a>
+                                <a class="btn-custom" style="background-color:#505050" href="<?= base_url('dashboard') ?>"><i class="fa fa-shopping-bag"></i> Marketplace</a>
                                 <span id="menu-btn"></span>
                             </div>
                             <div class="clearfix"></div>
@@ -388,7 +388,7 @@
                                 Owner & Founder
                             </div>
                         </div>
-						
+<!-- 						
 						<div class="col-lg-2 col-md-6 col-sm-6 mb30 wow fadeInUp" data-wow-delay=".25s">
                             <div class="f-profile text-center">
                                 <div class="fp-wrap f-invert">						
@@ -435,7 +435,7 @@
                                 <h4>Ryan</h4>
                                 Internal Staff
                             </div>
-                        </div>
+                        </div> -->
                         
                     </div>
                 </div>
